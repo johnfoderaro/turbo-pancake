@@ -16,14 +16,15 @@
   "license": "MIT",
   "readmeFilename": "readme.md",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.5.3"
+    "chai": "latest",
+    "mocha": "latest"
   },
   "dependencies": {
-    "body-parser": "^1.15.2",
-    "debug": "^2.3.3",
-    "ejs": "^2.5.5",
-    "express": "^4.14.0",
-    "helmet": "^3.1.0"
+    "body-parser": "latest",
+    "debug": "latest",
+    "dotenv": "latest",
+    "ejs": "latest",
+    "express": "latest",
+    "helmet": "latest"
   }
 }
